@@ -14,18 +14,19 @@
 ### Demo
 <details><summary>Demo Image</summary><div markdown="1">
 
-잘못된 입력처리
+**잘못된 입력처리**<br>
+<img width="632" alt="Screen Shot 2022-01-03 at 4 45 14 PM" src="https://user-images.githubusercontent.com/24707229/147911292-38aa724a-e45a-4774-8551-bd242c8f71d4.png">
+    
+**사용자 승리 시나리오**<br>
+<img width="581" alt="게임 데모" src="https://user-images.githubusercontent.com/24707229/147911305-9aff4271-3e4b-497b-a4b8-0e35ce7f70c6.png">
 
-사용자 승리 시나리오
+**컴퓨터 승리 시나리오**<br>
+<img width="669" alt="Screen Shot 2022-01-03 at 4 44 14 PM" src="https://user-images.githubusercontent.com/24707229/147911311-b51ea857-226f-43c6-8bff-f5240b3798cd.png">
 
-컴퓨터 승리 시나리오
-
-게임 종료 동작
-
+**게임 종료 동작**<br>
+<img width="464" alt="Screen Shot 2022-01-03 at 4 44 29 PM" src="https://user-images.githubusercontent.com/24707229/147911322-8f87b7d6-d520-44d2-8a95-f27f1189dd22.png">
 </div></details>
-<br>
 
-## Psudo Code
 <details><summary>Psudo Code Text</summary><div markdown="1">
 
 1. 프로그램 시작
@@ -57,33 +58,34 @@
 11. 게임종료 -> 메뉴시작
 12. 메뉴종료 -> 프로그램시작
 </div></details>
-<br>
 
-## FlowChart
 <details><summary>FlowChart Image</summary><div markdown="1">
 
 <img width="874" alt="image" src="https://user-images.githubusercontent.com/24707229/119995900-0d946600-c009-11eb-8630-ba9f4cae70d6.png">
 </div></details>
-<br>
 
 ## Troubleshootings
 <details><summary>변수명 이름짓기 고민 - 쓰임새 이름짓기 VS 실제 동작 이름짓기</summary><div markdown="1">
 
 
-협업하는 동료나 다시 코드를 보게될 미래의 코드 작성자가 이해하기 쉬운 변수명이 좋은 방향이라는 생각을 하게 되었습니다. 
+협업하는 동료나 다시 코드를 보게될 미래의 코드 작성자가 이해하기 쉬운 변수명이 좋은 방향이라는 생각을 하게 되었습니다.  
 [연관링크 - Use Terminology Well](https://www.swift.org/documentation/api-design-guidelines/)
 </div></details>
 <details><summary>재귀 호출 - StackOverflow 문제</summary><div markdown="1">
 
-코드 들여쓰기 2회 초과 금지 기준 때문에 처음 아이디어는 재귀 함수형태로 반복형성
-코드 1
-PR 피드백을 통해 스택오버플로우 문제에 대한 고민을 해보게됨
-피드백
-피드백을 반영해서 재귀형태 반복문을 'while' 반복으로 변형
-코드 2
+**코드 들여쓰기 2회 초과 금지 기준 때문에 처음 아이디어는 재귀 함수형태로 반복형성
+**<img width="851" alt="코드1" src="https://user-images.githubusercontent.com/24707229/147911348-bb16ac98-7ecb-435b-9bf5-0557e1d83de1.png">
+
+**PR을 통해 리뷰어와 함께 스택오버플로우 문제에 대한 고민해봄
+**<img width="1117" alt="재귀 피드백" src="https://user-images.githubusercontent.com/24707229/147911387-9a79dc49-ecb5-4fd8-ae4b-a81a47b87899.png">
+
+**피드백을 반영해서 재귀형태 반복문을 'while' 반복으로 변형
+**<img width="870" alt="코드2" src="https://user-images.githubusercontent.com/24707229/147911399-b401e06b-e652-4f49-87a8-490149bc67c5.png">
+
 </div></details>
 <details><summary>Set Shuffle이 되는 상황 실험</summary><div markdown="1">
 
+<img width="1109" alt="Set 실험" src="https://user-images.githubusercontent.com/24707229/147911416-0acf1e5b-ef01-48ac-8dc2-539da94da9a4.png">
 
 </div></details>
 <br>
