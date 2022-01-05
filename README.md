@@ -73,14 +73,14 @@
 </div></details>
 <details><summary>재귀 호출 - StackOverflow 문제</summary><div markdown="1">
 
-**코드 들여쓰기 2회 초과 금지 기준 때문에 처음 아이디어는 재귀 함수형태로 반복형성
-**<img width="851" alt="코드1" src="https://user-images.githubusercontent.com/24707229/147911348-bb16ac98-7ecb-435b-9bf5-0557e1d83de1.png">
+**코드 들여쓰기 2회 초과 금지 기준 때문에 처음 아이디어는 재귀 함수형태로 반복형성**  
+    <img width="851" alt="코드1" src="https://user-images.githubusercontent.com/24707229/147911348-bb16ac98-7ecb-435b-9bf5-0557e1d83de1.png">
 
-**PR을 통해 리뷰어와 함께 스택오버플로우 문제에 대한 고민해봄
-**<img width="1117" alt="재귀 피드백" src="https://user-images.githubusercontent.com/24707229/147911387-9a79dc49-ecb5-4fd8-ae4b-a81a47b87899.png">
+**PR을 통해 리뷰어와 함께 스택오버플로우 문제에 대한 고민해봄**  
+    <img width="1117" alt="재귀 피드백" src="https://user-images.githubusercontent.com/24707229/147911387-9a79dc49-ecb5-4fd8-ae4b-a81a47b87899.png">
 
-**피드백을 반영해서 재귀형태 반복문을 'while' 반복으로 변형
-**<img width="870" alt="코드2" src="https://user-images.githubusercontent.com/24707229/147911399-b401e06b-e652-4f49-87a8-490149bc67c5.png">
+**피드백을 반영해서 재귀형태 반복문을 'while' 반복으로 변형**  
+    <img width="870" alt="코드2" src="https://user-images.githubusercontent.com/24707229/147911399-b401e06b-e652-4f49-87a8-490149bc67c5.png">
 
 </div></details>
 <details><summary>Set Shuffle이 되는 상황 실험</summary><div markdown="1">
